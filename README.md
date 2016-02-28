@@ -1,2 +1,2 @@
 # Test Repo
-This is a test repository that will link to piafaxon.com
+Repository that will point to piafaxon.com
