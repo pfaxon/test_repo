@@ -1,0 +1,95 @@
+/*color palette Palette UID: 3070u0kmMvKd2MpirCSs1tOu7ng */
+
+body {
+	margin: 0;
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 50px; 
+	top:0;
+}
+nav {
+	text-align: right;
+	float: right;
+}
+nav li {
+	display: inline-block;
+	margin: 0;
+	padding: 5px;
+	color: #D0112C;
+	font-family: verdana;
+}
+
+.v-align-outer {
+	display: table;
+  width: 100%;
+  height: 100vh;
+  background: url('../img/momma.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#donald{
+	display: table;
+  width: 100%;
+  height: 100vh;
+  background: url('../img/donald_mom.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#Emojis {
+	margin-top: 100px;
+}
+li {
+	display: inline-block;
+}
+
+i {
+	display: inline-block;
+	font-size: 55px;
+}
+#name { 
+	font-size: 50px;
+	font-family: "verdana";
+	font-weight: bold;
+	color: #D0112C;
+	text-decoration: none;
+	margin-left: 25px;
+ }
+a {
+	color: #D0112C;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #073346;
+}
+
+h1 {
+  font-family: 'Poiret One';
+  font-weight: bolder;
+  font-size: 75px;
+  text-align: right;
+  margin-top: 350px;
+  margin-right: 10px;
+  margin-bottom: 80px;
+  color: white;
+}
+
+h2 {
+	font-size: 35px;
+  	font-family: 'Poiret One';
+    color: #D0112C;
+	font-weight: 1100;
+	margin-bottom: 0;
+	margin-left: 50px;
+	font-style: italic;
+}
+
+div.iframe {
+padding: 30px;
+text-align: center;
+}
